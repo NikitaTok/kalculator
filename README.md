@@ -33,7 +33,7 @@
 
 ### Запуск
 # Клонируйте репозиторий
-git clone https://github.com/ВАШ_ЛОГИН/kalculator.git
+git clone https://github.com/NikitaTok/kalculator.git
 cd kalculator
 
 # Запустите калькулятор
